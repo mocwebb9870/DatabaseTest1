@@ -1,3 +1,3 @@
 # DatabaseTest1
 
-original SOURCE https://qiita.com/monjara/items/5ef4afee2172750323a9
+original SOURCE https://www.codejava.net/frameworks/spring-boot/spring-boot-crud-example-with-spring-mvc-spring-data-jpa-thymeleaf-hibernate-mysql
